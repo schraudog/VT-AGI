@@ -1,4 +1,7 @@
-# VT-AGI
+# Mike Schrauder Virgina Tech Applied Agentic AI: Systems Design and Impact Portfolio
+
+#### SimpliLearn Cohort 2026-09-30 to 2027-01-23
+### This is a link to my work in the various courses.
 
 | Course| Module | Repo | Description |
 |---|---|---|---|
