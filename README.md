@@ -5,7 +5,7 @@
 
 | Course| Module | Repo | Description |
 |---|---|---|---|
-| o1 | Intro / Python Refresher with AI (Optional) | [Python Refresher(https://github.com/schraudog/VT-AGI-01-Python-Refresher) |  |
+| o1 | Intro / Python Refresher with AI (Optional) | [Python Refresher](https://github.com/schraudog/VT-AGI-01-Python-Refresher) |  |
 | o2 | Foundations of AI & Agentic AI |  |  |
 | o3 | Generative AI Tech Stack and Prompt Engineering |  |  |
 | o4 | LLM Internals & Planning Systems |  |  |
